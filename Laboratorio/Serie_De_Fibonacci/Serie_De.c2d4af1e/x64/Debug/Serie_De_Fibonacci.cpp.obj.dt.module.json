@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Serie_De.c2d4af1e\\x64\\Debug\\Serie_De_Fibonacci.obj",
+            "outputs": [
+                "Serie_De.c2d4af1e\\x64\\Debug\\Serie_De_Fibonacci.cpp.obj.dt.module.json",
+                "Serie_De.c2d4af1e\\x64\\Debug\\Serie_De_Fibonacci.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

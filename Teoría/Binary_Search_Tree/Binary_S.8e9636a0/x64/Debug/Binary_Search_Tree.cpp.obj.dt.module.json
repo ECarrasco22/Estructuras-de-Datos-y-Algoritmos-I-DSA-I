@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Binary_S.8e9636a0\\x64\\Debug\\Binary_Search_Tree.obj",
+            "outputs": [
+                "Binary_S.8e9636a0\\x64\\Debug\\Binary_Search_Tree.cpp.obj.dt.module.json",
+                "Binary_S.8e9636a0\\x64\\Debug\\Binary_Search_Tree.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

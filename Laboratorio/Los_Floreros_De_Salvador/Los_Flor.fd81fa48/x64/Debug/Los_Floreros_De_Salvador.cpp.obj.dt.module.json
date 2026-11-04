@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Los_Flor.fd81fa48\\x64\\Debug\\Los_Floreros_De_Salvador.obj",
+            "outputs": [
+                "Los_Flor.fd81fa48\\x64\\Debug\\Los_Floreros_De_Salvador.cpp.obj.dt.module.json",
+                "Los_Flor.fd81fa48\\x64\\Debug\\Los_Floreros_De_Salvador.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

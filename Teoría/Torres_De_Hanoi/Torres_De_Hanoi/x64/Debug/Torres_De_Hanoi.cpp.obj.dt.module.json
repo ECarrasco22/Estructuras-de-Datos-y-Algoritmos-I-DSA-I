@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Torres_De_Hanoi\\x64\\Debug\\Torres_De_Hanoi.obj",
+            "outputs": [
+                "Torres_De_Hanoi\\x64\\Debug\\Torres_De_Hanoi.cpp.obj.dt.module.json",
+                "Torres_De_Hanoi\\x64\\Debug\\Torres_De_Hanoi.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

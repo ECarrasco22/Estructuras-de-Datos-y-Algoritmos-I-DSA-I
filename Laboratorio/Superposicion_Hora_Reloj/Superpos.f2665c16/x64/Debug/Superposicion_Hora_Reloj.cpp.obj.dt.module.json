@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Superpos.f2665c16\\x64\\Debug\\Superposicion_Hora_Reloj.obj",
+            "outputs": [
+                "Superpos.f2665c16\\x64\\Debug\\Superposicion_Hora_Reloj.cpp.obj.dt.module.json",
+                "Superpos.f2665c16\\x64\\Debug\\Superposicion_Hora_Reloj.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Calcular_Fecha\\x64\\Debug\\Calcular_Fecha.obj",
+            "outputs": [
+                "Calcular_Fecha\\x64\\Debug\\Calcular_Fecha.cpp.obj.dt.module.json",
+                "Calcular_Fecha\\x64\\Debug\\Calcular_Fecha.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

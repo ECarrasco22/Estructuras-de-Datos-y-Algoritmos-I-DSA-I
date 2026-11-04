@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Banquete.945eb115\\x64\\Debug\\Banquete_De_Politicos.obj",
+            "outputs": [
+                "Banquete.945eb115\\x64\\Debug\\Banquete_De_Politicos.cpp.obj.dt.module.json",
+                "Banquete.945eb115\\x64\\Debug\\Banquete_De_Politicos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

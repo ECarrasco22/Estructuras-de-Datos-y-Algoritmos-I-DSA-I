@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Colas_Queues\\x64\\Debug\\Colas_Queues.obj",
+            "outputs": [
+                "Colas_Queues\\x64\\Debug\\Colas_Queues.cpp.obj.dt.module.json",
+                "Colas_Queues\\x64\\Debug\\Colas_Queues.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

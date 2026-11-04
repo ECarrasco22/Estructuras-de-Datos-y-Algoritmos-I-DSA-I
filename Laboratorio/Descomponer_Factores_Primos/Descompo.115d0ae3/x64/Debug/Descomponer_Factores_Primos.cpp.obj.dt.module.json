@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Descompo.115d0ae3\\x64\\Debug\\Descomponer_Factores_Primos.obj",
+            "outputs": [
+                "Descompo.115d0ae3\\x64\\Debug\\Descomponer_Factores_Primos.cpp.obj.dt.module.json",
+                "Descompo.115d0ae3\\x64\\Debug\\Descomponer_Factores_Primos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

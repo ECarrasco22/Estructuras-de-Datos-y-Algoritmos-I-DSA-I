@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Cadena_Mas_Larga\\x64\\Debug\\Cadena_Mas_Larga.obj",
+            "outputs": [
+                "Cadena_Mas_Larga\\x64\\Debug\\Cadena_Mas_Larga.cpp.obj.dt.module.json",
+                "Cadena_Mas_Larga\\x64\\Debug\\Cadena_Mas_Larga.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Numeros_.525b1f54\\x64\\Debug\\Numeros_Perfectos.obj",
+            "outputs": [
+                "Numeros_.525b1f54\\x64\\Debug\\Numeros_Perfectos.cpp.obj.dt.module.json",
+                "Numeros_.525b1f54\\x64\\Debug\\Numeros_Perfectos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

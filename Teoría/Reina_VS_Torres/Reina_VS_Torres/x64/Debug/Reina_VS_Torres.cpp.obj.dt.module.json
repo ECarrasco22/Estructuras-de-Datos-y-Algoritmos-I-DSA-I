@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reina_VS_Torres\\x64\\Debug\\Reina_VS_Torres.obj",
+            "outputs": [
+                "Reina_VS_Torres\\x64\\Debug\\Reina_VS_Torres.cpp.obj.dt.module.json",
+                "Reina_VS_Torres\\x64\\Debug\\Reina_VS_Torres.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

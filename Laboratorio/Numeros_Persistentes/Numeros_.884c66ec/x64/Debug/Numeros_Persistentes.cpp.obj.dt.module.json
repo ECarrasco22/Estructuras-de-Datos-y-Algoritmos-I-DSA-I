@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Numeros_.884c66ec\\x64\\Debug\\Numeros_Persistentes.obj",
+            "outputs": [
+                "Numeros_.884c66ec\\x64\\Debug\\Numeros_Persistentes.cpp.obj.dt.module.json",
+                "Numeros_.884c66ec\\x64\\Debug\\Numeros_Persistentes.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

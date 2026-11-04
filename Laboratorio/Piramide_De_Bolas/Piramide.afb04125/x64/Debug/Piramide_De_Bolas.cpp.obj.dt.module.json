@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Piramide.afb04125\\x64\\Debug\\Piramide_De_Bolas.obj",
+            "outputs": [
+                "Piramide.afb04125\\x64\\Debug\\Piramide_De_Bolas.cpp.obj.dt.module.json",
+                "Piramide.afb04125\\x64\\Debug\\Piramide_De_Bolas.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

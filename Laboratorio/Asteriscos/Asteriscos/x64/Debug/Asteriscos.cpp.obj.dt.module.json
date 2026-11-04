@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Asteriscos\\x64\\Debug\\Asteriscos.obj",
+            "outputs": [
+                "Asteriscos\\x64\\Debug\\Asteriscos.cpp.obj.dt.module.json",
+                "Asteriscos\\x64\\Debug\\Asteriscos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "La_Hora\\x64\\Debug\\La_Hora.obj",
+            "outputs": [
+                "La_Hora\\x64\\Debug\\La_Hora.cpp.obj.dt.module.json",
+                "La_Hora\\x64\\Debug\\La_Hora.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

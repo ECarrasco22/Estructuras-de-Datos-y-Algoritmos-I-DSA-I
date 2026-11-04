@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Cubos_Na.fc72c223\\x64\\Debug\\Cubos_Narcicistas.obj",
+            "outputs": [
+                "Cubos_Na.fc72c223\\x64\\Debug\\Cubos_Narcicistas.cpp.obj.dt.module.json",
+                "Cubos_Na.fc72c223\\x64\\Debug\\Cubos_Narcicistas.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

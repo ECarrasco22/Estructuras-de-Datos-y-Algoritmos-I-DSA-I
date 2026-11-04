@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Cadena_D.0be60a75\\x64\\Debug\\Cadena_De_Caracteres.obj",
+            "outputs": [
+                "Cadena_D.0be60a75\\x64\\Debug\\Cadena_De_Caracteres.cpp.obj.dt.module.json",
+                "Cadena_D.0be60a75\\x64\\Debug\\Cadena_De_Caracteres.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

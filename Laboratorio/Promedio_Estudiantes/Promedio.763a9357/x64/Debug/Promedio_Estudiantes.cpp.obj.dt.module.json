@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Promedio.763a9357\\x64\\Debug\\Promedio_Estudiantes.obj",
+            "outputs": [
+                "Promedio.763a9357\\x64\\Debug\\Promedio_Estudiantes.cpp.obj.dt.module.json",
+                "Promedio.763a9357\\x64\\Debug\\Promedio_Estudiantes.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

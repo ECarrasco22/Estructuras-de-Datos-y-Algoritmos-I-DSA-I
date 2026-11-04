@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "La_Flota.886d16c4\\x64\\Debug\\La_Flota_De_Camiones.obj",
+            "outputs": [
+                "La_Flota.886d16c4\\x64\\Debug\\La_Flota_De_Camiones.cpp.obj.dt.module.json",
+                "La_Flota.886d16c4\\x64\\Debug\\La_Flota_De_Camiones.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

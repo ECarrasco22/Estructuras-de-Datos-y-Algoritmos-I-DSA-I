@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Pilas_Stacks\\x64\\Debug\\Pilas_Stacks.obj",
+            "outputs": [
+                "Pilas_Stacks\\x64\\Debug\\Pilas_Stacks.cpp.obj.dt.module.json",
+                "Pilas_Stacks\\x64\\Debug\\Pilas_Stacks.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reloj_Qu.895735d8\\x64\\Debug\\Reloj_Que_Se_Atrasa.obj",
+            "outputs": [
+                "Reloj_Qu.895735d8\\x64\\Debug\\Reloj_Que_Se_Atrasa.cpp.obj.dt.module.json",
+                "Reloj_Qu.895735d8\\x64\\Debug\\Reloj_Que_Se_Atrasa.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

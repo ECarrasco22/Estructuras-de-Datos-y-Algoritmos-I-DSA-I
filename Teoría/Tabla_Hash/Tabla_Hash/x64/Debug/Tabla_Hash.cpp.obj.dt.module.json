@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tabla_Hash\\x64\\Debug\\Tabla_Hash.obj",
+            "outputs": [
+                "Tabla_Hash\\x64\\Debug\\Tabla_Hash.cpp.obj.dt.module.json",
+                "Tabla_Hash\\x64\\Debug\\Tabla_Hash.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

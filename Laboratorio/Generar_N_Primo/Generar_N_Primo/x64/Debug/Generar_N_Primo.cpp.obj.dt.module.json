@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Generar_N_Primo\\x64\\Debug\\Generar_N_Primo.obj",
+            "outputs": [
+                "Generar_N_Primo\\x64\\Debug\\Generar_N_Primo.cpp.obj.dt.module.json",
+                "Generar_N_Primo\\x64\\Debug\\Generar_N_Primo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
