@@ -6,18 +6,16 @@ The main goal is to organize and document the concepts, practical exercises, and
 
 ## 📂 Repository Structure
 
-```text
 Data Structures I/
 │
-├── PDFs Documentos/
-│   └── Course materials and supporting documentation
-│
-├── Teoría/
+├── Theory/
+│   ├── PDFs Documents/
+│   │   └── Course materials and supporting documentation
+│   │
 │   └── Exercises and examples developed during classes
 │
-└── Laboratorio/
+└── Laboratory/
     └── Laboratory assignments and practical exercises
-```
 
 ## 📚 Topics Covered
 
