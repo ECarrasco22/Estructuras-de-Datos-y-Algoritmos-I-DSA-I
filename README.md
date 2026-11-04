@@ -6,6 +6,7 @@ The main goal is to organize and document the concepts, practical exercises, and
 
 ## 📂 Repository Structure
 
+```text
 Data Structures I/
 │
 ├── Theory/
@@ -16,6 +17,7 @@ Data Structures I/
 │
 └── Laboratory/
     └── Laboratory assignments and practical exercises
+```
 
 ## 📚 Topics Covered
 
