@@ -1,6 +1,6 @@
-# Data Structures I
+# Data Structures and Algorithms I
 
-Academic repository for the **Data Structures I** course. This repository contains programming exercises, laboratory assignments, implementations, and supporting documentation developed throughout the course.
+Academic repository for the **Data Structures and Algorithms I** course. This repository contains programming exercises, laboratory assignments, implementations, and supporting documentation developed throughout the course.
 
 The main goal is to organize and document the concepts, practical exercises, and implementations covered during the learning process.
 
