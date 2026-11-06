@@ -17,7 +17,7 @@ Data Structures I/
 │
 └── Laboratory/
     └── Laboratory assignments and practical exercises
-```
+``` 
 
 ## 📚 Topics Covered
 
